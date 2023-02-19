@@ -1,5 +1,8 @@
 _repo: Travels-through-Central-Africa-to-Timbuctoo-and-across-the-Great-Desert-to-Morocco-performed-__69847
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69847-h/images/cover.jpg
 creator:
   author:
     agent_name: Caillié, René
@@ -15,6 +18,8 @@ creator:
     - https://en.wikipedia.org/wiki/Ren%C3%A9_Cailli%C3%A9
     - https://fr.wikipedia.org/wiki/Ren%C3%A9_Cailli%C3%A9
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69847#Travels-through-Central-Africa-to-Timbuctoo-and-across-the-Great-Desert-to-Morocco-performed-_
 gutenberg_issued: '2023-01-20'
 identifiers:
   gutenberg: '69847'
